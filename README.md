@@ -16,3 +16,15 @@ else = mohim
 raise = justitie
 
 Global = Kech
+
+finally = tfoe
+
+class = underkoffer
+
+assert = fkaa
+
+do = doe
+
+while = niffo
+
+continue = huts
