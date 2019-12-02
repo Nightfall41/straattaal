@@ -28,3 +28,5 @@ do = doe
 while = niffo
 
 continue = huts
+
+random = roullete
